@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sayalinc28
-- 👀 I'm interest data structures and I enjoy to explore new techknologies
+- 👀 I'm interest data structures and I enjoy to explore new technologies
 - 🌱 I’m currently a student of Computer Engineering
 - 📫 How to reach me: sayalinc2001@gmail.com
 
