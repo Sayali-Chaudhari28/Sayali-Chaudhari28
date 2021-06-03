@@ -1,6 +1,5 @@
-  <h1 align="center" font ="20px">👋 Hello, I’m @Sayalinc28
-   <br><br> Second Year B. Tech Computer Engineering student<br> At CCOEW, Pune  🎓
-  </h1>
+  <h1 align="center" font ="20px">👋 Hello, I’m @Sayalinc28</h1>
+  <h2 align="center"<br> Second Year B. Tech Computer Engineering student<br> At CCOEW, Pune  🎓</h2>
   <h3> <br>
     <li>👀 I'm looking to contribute on Data Structures projects </li><br>
     <li> How to reach me... <br><br>
