@@ -1,8 +1,7 @@
   <h1 align="center" font ="20px">👋 Hello, I’m @Sayalinc28</h1>
-  <h2 align="center"<br> Second Year B. Tech Computer Engineering student<br> At CCEW, Pune  🎓</h2>
+  <h2 align="center"<br> Third Year B. Tech Computer Engineering student<br> At CCEW, Pune  🎓</h2>
   <h3> <br>
     <li>👀 Data Structures Enthusiastic </li><br>
-    <li> 
     <li> How to reach me... <br><br>
       <ul>
            📧 Gmail:  sayalinc2001@gmail.com<br>         
