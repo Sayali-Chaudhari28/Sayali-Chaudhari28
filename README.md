@@ -19,21 +19,21 @@
 
 #### PROGRAMMING LANGUAGES & TOOLS
 <p>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" alt="JAVA" style="width:60px; height:60px";>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C-programming" style="width:60px; height:60px";>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" style="width:60px; height:60px";>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" style="width:60px; height:60px";>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" style="width:50px; height:60px";>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" style="width:60px; height:60px";>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" style="width:60px; height:60px";>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="REACT.JS" style="width:60px; height:60px";>&nbsp;&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" alt="JAVA" style="width:40px; height:40px"; target='_blank'>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C-programming" style="width:40px; height:40px"; target='_blank'>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" style="width:40px; height:40px";>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" style="width:40px; height:40px";>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" style="width:30px; height:40px";>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" style="width:40px; height:40px";>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" style="width:60px; height:40px";>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="REACT.JS" style="width:40px; height:40px";>&nbsp;&nbsp;
 </p>
 <p>
-  <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="REACT.JS" style="width:60px; height:60px";>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql">
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo-db" style="width:60px;height:60px";>
-  <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" style="width:50px; height:60px";>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" style="width:50px; height:60px";>
+  <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="NODE.JS" style="width:40px; height:40px";>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo-db" style="width:40px; height:40px";>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" style="width:40px; height:40px";>
+  <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" style="width:40px; height:40px";>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" style="width:40px; height:40px";>
 </p>
 
 <p  align="center">
