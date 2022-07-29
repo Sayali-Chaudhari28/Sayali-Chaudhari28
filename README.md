@@ -61,7 +61,7 @@
 <p align="center">
   <div align="center">
     <h4><b>CONNECT WITH ME ON</b></h4>
-    <a href="https://www.linkedin.com/in/sayali-chaudhari-624478209/" target="blank">
+    <a href="www.linkedin.com/in/snc28" target="blank">
       <img src="https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png" alt="LinkedIn" style="width:42px;height:42px";>
     </a>
     <a href="https://twitter.com/SayaliC03632508" target="blank">
