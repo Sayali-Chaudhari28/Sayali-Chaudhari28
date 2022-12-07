@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I’m @Sayali-Chaudhari28</h1>
 
-<h2 align="center"<br> Third Year B. Tech Computer Engineering student At CCEW, Pune  🎓</h2>
+<h2 align="center"<br> Final Year B. Tech Computer Engineering student At CCOEW, Pune  🎓</h2>
 
 <p align="center" >
   <b><i>A Passionate developer who loves to code</i></b>
@@ -8,9 +8,7 @@
 
 #### ABOUT ME
 
-- 🌱 Currently wroking on improving **problem solving skills** 
-
-- 💡 Currently learning **React.js**
+- 💡 Currently learning **Flutter**
 
 - 💬 Ask me about **algorithms** 
  
