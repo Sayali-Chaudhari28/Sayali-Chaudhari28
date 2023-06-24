@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hello, I’m @Sayali-Chaudhari28</h1>
-
-<h2 align="center"<br> Final Year B. Tech Computer Engineering student At CCOEW, Pune  🎓</h2>
+<h1 align="center">👋 Hello, I’m Sayali </h1>
 
 <p align="center" >
   <b><i>A Passionate developer who loves to code</i></b>
@@ -8,9 +6,9 @@
 
 #### ABOUT ME
 
-- 💡 Currently learning **Flutter**
+- 💡 Currently learning **AngularJs**
 
-- 💬 Ask me about **algorithms** 
+- 💬 Ask me about **Flutter** 
  
 - 📧 How to reach me: **sayalinc2001@gmail.com**
 
@@ -25,13 +23,16 @@
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" style="width:40px; height:40px";>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" style="width:60px; height:40px";>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="REACT.JS" style="width:40px; height:40px";>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=7I3BjCqe9rjG&format=png" alt="FLUTTER" style="width:40px; height:40px";>&nbsp;&nbsp;
 </p>
 <p>
+  <img src="https://img.icons8.com/?size=1x&id=7AFcZ2zirX6Y&format=png" alt="dart" style="width:40px; height:40px";>&nbsp;
   <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="NODE.JS" style="width:40px; height:40px";>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo-db" style="width:40px; height:40px";>
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" style="width:40px; height:40px";>
   <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" style="width:40px; height:40px";>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" style="width:40px; height:40px";>
+ 
 </p>
 
 <p  align="center">
